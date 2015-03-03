@@ -1,1 +1,1 @@
-print "feiji"
+print "test"
